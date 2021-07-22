@@ -7,3 +7,5 @@ If you want to view the question or answer. Please, click on them.
 
 ## Questions           &      Answers        
 ### 1.) [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) -------------> [Welcometojava.java](https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/191153163)
+### 2.) [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) -------------> [Q2.java](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/submissions/code/191153290)
+
